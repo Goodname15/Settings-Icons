@@ -1,37 +1,18 @@
-## Welcome to GitHub Pages
+## Settings-Icons
+For BetterDiscord
 
-You can use the [editor on GitHub](https://github.com/Randomfly1/Settings-Icons/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+Settings-Icons is a lightweight theme, which adds little icons to discord's settings menu.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+## Installation
+This theme is built for [BetterDiscord](https://betterdiscord.app/). So, if you don't have it yet, you can download it now.
+* **Method 1**\
+Download the theme from the Button above\
+Go to Settings > BetterDiscord > Themes\
+Click "Open Themes Folder" and insert the SettingsIcons.theme.css File, you downloaded earlier.\
+ㅤㅤ
+* **Method 2**
+Go to Settings > BetterDiscord > custom CSS and paste
 ```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Randomfly1/Test-Settings-icons/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+@import https://randomfly1.github.io/Settings-Icons/Settings-Icons.css
+```
+then save.
