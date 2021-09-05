@@ -19,59 +19,59 @@
 
 /*User Settings*/
 [aria-label=USER_SETTINGS] .sidebar-CFHs9e [aria-controls=my-account-tab].item-PXvHYJ:before {
-  background-image: url(https://raw.githubusercontent.com/Randomfly1/Settings-Icons/a6eb307881758db738a7a8bad338a8d1ed23ec37/icons/user-settings/my-account.svg);
+  background-image: url(https://randomfly1.github.io/Settings-Icons/icons/user-settings/my-account.svg);
 }
 [aria-label=USER_SETTINGS] .sidebar-CFHs9e [aria-controls=profile-customization-tab].item-PXvHYJ:before {
-  background-image: url(https://raw.githubusercontent.com/Randomfly1/Settings-Icons/5d1f741aa6fb9e3f861ffcfe06fcfbff8d2410ab/icons/user-settings/user-profile.svg);
+  background-image: url(https://randomfly1.github.io/Settings-Icons/icons/user-settings/user-profile.svg);
 }
 [aria-label=USER_SETTINGS] .sidebar-CFHs9e [aria-controls="privacy-&-safety-tab"].item-PXvHYJ:before {
-  background-image: url(https://raw.githubusercontent.com/Randomfly1/Settings-Icons/a6eb307881758db738a7a8bad338a8d1ed23ec37/icons/user-settings/privacy-safety.svg);
+  background-image: url(https://randomfly1.github.io/Settings-Icons/icons/user-settings/privacy-safety.svg);
 }
 [aria-label=USER_SETTINGS] .sidebar-CFHs9e [aria-controls=authorized-apps-tab].item-PXvHYJ:before {
-  background-image: url(https://raw.githubusercontent.com/Randomfly1/Settings-Icons/a6eb307881758db738a7a8bad338a8d1ed23ec37/icons/user-settings/authorized-apps.svg);
+  background-image: url(https://randomfly1.github.io/Settings-Icons/icons/user-settings/authorized-apps.svg);
 }
 [aria-label=USER_SETTINGS] .sidebar-CFHs9e [aria-controls=connections-tab].item-PXvHYJ:before {
-  background-image: url(https://raw.githubusercontent.com/Randomfly1/Settings-Icons/a6eb307881758db738a7a8bad338a8d1ed23ec37/icons/user-settings/connections.svg);
+  background-image: url(https://randomfly1.github.io/Settings-Icons/icons/user-settings/connections.svg);
 }
 
 /*Payment Settings*/
 [aria-label=USER_SETTINGS] .sidebar-CFHs9e [aria-controls=subscriptions-tab].item-PXvHYJ:before {
-  background-image: url(https://raw.githubusercontent.com/Randomfly1/Settings-Icons/956827d880759cb63346fdda5a7c21cdab339364/icons/payment-settings/subscriptions.svg);
+  background-image: url(https://randomfly1.github.io/Settings-Icons/icons/payment-settings/subscriptions.svg);
 }
 [aria-label=USER_SETTINGS] .sidebar-CFHs9e [aria-controls=discord-nitro-tab].item-PXvHYJ:before {
-  background-image: url(https://raw.githubusercontent.com/Randomfly1/Settings-Icons/956827d880759cb63346fdda5a7c21cdab339364/icons/payment-settings/discord-nitro.svg);
+  background-image: url(https://randomfly1.github.io/Settings-Icons/icons/payment-settings/discord-nitro.svg);
 }
 [aria-label=USER_SETTINGS] .sidebar-CFHs9e [aria-controls=nitro-server-boost-tab].item-PXvHYJ:before {
-  background-image: url(https://raw.githubusercontent.com/Randomfly1/Settings-Icons/956827d880759cb63346fdda5a7c21cdab339364/icons/payment-settings/server-boost.svg);
+  background-image: url(https://randomfly1.github.io/Settings-Icons/icons/payment-settings/server-boost.svg);
 }
 [aria-label=USER_SETTINGS] .sidebar-CFHs9e [aria-controls=library-inventory-tab].item-PXvHYJ:before {
-  background-image: url(https://raw.githubusercontent.com/Randomfly1/Settings-Icons/956827d880759cb63346fdda5a7c21cdab339364/icons/payment-settings/gift-inventory.svg);
+  background-image: url(https://randomfly1.github.io/Settings-Icons/icons/payment-settings/gift-inventory.svg);
 }
 [aria-label=USER_SETTINGS] .sidebar-CFHs9e [aria-controls=billing-tab].item-PXvHYJ:before {
-  background-image: url(https://raw.githubusercontent.com/Randomfly1/Settings-Icons/956827d880759cb63346fdda5a7c21cdab339364/icons/payment-settings/billing.svg);
+  background-image: url(https://randomfly1.github.io/Settings-Icons/icons/payment-settings/billing.svg);
 }
 
 /*App Settings*/
 [aria-label=USER_SETTINGS] .sidebar-CFHs9e [aria-controls=appearance-tab].item-PXvHYJ:before {
-  background-image: url(https://raw.githubusercontent.com/Randomfly1/Settings-Icons/765cf62898a5738d5c34b2418364d9cbda3e4d31/icons/app-settings/appearance.svg);
+  background-image: url(https://randomfly1.github.io/Settings-Icons/icons/app-settings/appearance.svg);
 }
 [aria-label=USER_SETTINGS] .sidebar-CFHs9e [aria-controls=accessibility-tab].item-PXvHYJ:before {
-  background-image: url(https://raw.githubusercontent.com/Randomfly1/Settings-Icons/accd5dca4ba5903fc0423ad07037da1963c7cce9/icons/app-settings/accessibility.svg);
+  background-image: url(https://randomfly1.github.io/Settings-Icons/icons/app-settings/accessibility.svg);
 }
 [aria-label=USER_SETTINGS] .sidebar-CFHs9e [aria-controls="voice-&-video-tab"].item-PXvHYJ:before {
-  background-image: url(https://raw.githubusercontent.com/Randomfly1/Settings-Icons/6b2d505dfa2478073e8366614f2010f1bbb607e4/icons/app-settings/voice-%26-video.svg);
+  background-image: url(https://randomfly1.github.io/Settings-Icons/icons/app-settings/voice-%26-video.svg);
 }
 [aria-label=USER_SETTINGS] .sidebar-CFHs9e [aria-controls="text-&-images-tab"].item-PXvHYJ:before {
-  background-image: url(https://raw.githubusercontent.com/Randomfly1/Settings-Icons/6b2d505dfa2478073e8366614f2010f1bbb607e4/icons/app-settings/text-%26-images.svg);
+  background-image: url(https://randomfly1.github.io/Settings-Icons/icons/app-settings/text-%26-images.svg);
 }
 [aria-label=USER_SETTINGS] .sidebar-CFHs9e [aria-controls=notifications-tab].item-PXvHYJ:before {
-  background-image: url(https://raw.githubusercontent.com/Randomfly1/Settings-Icons/6b2d505dfa2478073e8366614f2010f1bbb607e4/icons/app-settings/notifications.svg);
+  background-image: url(https://randomfly1.github.io/Settings-Icons/icons/app-settings/notifications.svg);
 }
 [aria-label=USER_SETTINGS] .sidebar-CFHs9e [aria-controls=keybinds-tab].item-PXvHYJ:before {
-  background-image: url(https://raw.githubusercontent.com/Randomfly1/Settings-Icons/6b2d505dfa2478073e8366614f2010f1bbb607e4/icons/app-settings/keybinds.svg);
+  background-image: url(https://randomfly1.github.io/Settings-Icons/icons/app-settings/keybinds.svg);
 }
 [aria-label=USER_SETTINGS] .sidebar-CFHs9e [aria-controls=language-tab].item-PXvHYJ:before {
-  background-image: url(https://raw.githubusercontent.com/Randomfly1/Settings-Icons/6b2d505dfa2478073e8366614f2010f1bbb607e4/icons/app-settings/language.svg);
+  background-image: url(https://randomfly1.github.io/Settings-Icons/icons/app-settings/language.svg);
 }
 [aria-label=USER_SETTINGS] .sidebar-CFHs9e [aria-controls=windows-tab].item-PXvHYJ:before {
   background-image: url(https://clearvision.gitlab.io/icons/windows.svg);
@@ -80,57 +80,57 @@
   background-image: url(https://clearvision.gitlab.io/icons/linux.svg);
 }
 [aria-label=USER_SETTINGS] .sidebar-CFHs9e [aria-controls=streamer-mode-tab].item-PXvHYJ:before {
-  background-image: url(https://raw.githubusercontent.com/Randomfly1/Settings-Icons/6b2d505dfa2478073e8366614f2010f1bbb607e4/icons/app-settings/streamer-mode.svg);
+  background-image: url(https://randomfly1.github.io/Settings-Icons/icons/app-settings/streamer-mode.svg);
 }
 [aria-label=USER_SETTINGS] .sidebar-CFHs9e [aria-controls=advanced-tab].item-PXvHYJ:before {
-  background-image: url(https://raw.githubusercontent.com/Randomfly1/Settings-Icons/9e4bed210273b178c30bd90f211a2892792c1ed7/icons/app-settings/advanced.svg);
+  background-image: url(https://randomfly1.github.io/Settings-Icons/icons/app-settings/advanced.svg);
 }
 
 /*Activity Settings*/
 [aria-label=USER_SETTINGS] .sidebar-CFHs9e [aria-controls=game-activity-tab].item-PXvHYJ:before {
-  background-image: url(https://raw.githubusercontent.com/Randomfly1/Settings-Icons/6b2d505dfa2478073e8366614f2010f1bbb607e4/icons/activity-settings/activity-status.svg);
+  background-image: url(https://randomfly1.github.io/Settings-Icons/icons/activity-settings/activity-status.svg);
 }
 [aria-label=USER_SETTINGS] .sidebar-CFHs9e [aria-controls=overlay-tab].item-PXvHYJ:before {
-  background-image: url(https://raw.githubusercontent.com/Randomfly1/Settings-Icons/1f900f60f448600904b9b9f8c58c6e6b69ad8179/icons/activity-settings/game-overlay.svg);
+  background-image: url(https://randomfly1.github.io/Settings-Icons/icons/activity-settings/game-overlay.svg);
 }
 
 /*BetterDiscord*/
 [aria-label=USER_SETTINGS] .sidebar-CFHs9e [aria-controls=settings-tab].item-PXvHYJ:before {
-  background-image: url(https://raw.githubusercontent.com/Randomfly1/Settings-Icons/6b2d505dfa2478073e8366614f2010f1bbb607e4/icons/betterdiscord/settings.svg);
+  background-image: url(https://randomfly1.github.io/Settings-Icons/icons/betterdiscord/settings.svg);
 }
 [aria-label=USER_SETTINGS] .sidebar-CFHs9e [aria-controls=customcss-tab].item-PXvHYJ:before {
-  background-image: url(https://raw.githubusercontent.com/Randomfly1/Settings-Icons/a2357c1e5e4652464812993620ad0cf40e1ed4ad/icons/betterdiscord/custom-css.svg);
+  background-image: url(https://randomfly1.github.io/Settings-Icons/icons/betterdiscord/custom-css.svg);
 }
 [aria-label=USER_SETTINGS] .sidebar-CFHs9e [aria-controls=plugins-tab].item-PXvHYJ:before {
-  background-image: url(https://raw.githubusercontent.com/Randomfly1/Settings-Icons/6b2d505dfa2478073e8366614f2010f1bbb607e4/icons/betterdiscord/plugins.svg);
+  background-image: url(https://randomfly1.github.io/Settings-Icons/icons/betterdiscord/plugins.svg);
 }
 [aria-label=USER_SETTINGS] .sidebar-CFHs9e [aria-controls=themes-tab].item-PXvHYJ:before {
-  background-image: url(https://raw.githubusercontent.com/Randomfly1/Settings-Icons/6b2d505dfa2478073e8366614f2010f1bbb607e4/icons/betterdiscord/themes.svg);
+  background-image: url(https://randomfly1.github.io/Settings-Icons/icons/betterdiscord/themes.svg);
 }
 [aria-label=USER_SETTINGS] .sidebar-CFHs9e [aria-controls=pluginrepo-tab].item-PXvHYJ:before {
-  background-image: url(https://cdn.discordapp.com/attachments/723444262729023491/884062548947779645/extension_black_24dp.svg);
+  background-image: url();
 }
 [aria-label=USER_SETTINGS] .sidebar-CFHs9e [aria-controls=themerepo-tab].item-PXvHYJ:before {
-  background-image: url(https://raw.githubusercontent.com/Randomfly1/Settings-Icons/ad2888f7809db4488ac4be0cbc6c65b4afc3c71f/icons/betterdiscord/theme-repo.svg);
+  background-image: url(https://randomfly1.github.io/Settings-Icons/icons/betterdiscord/theme-repo.svg);
 }
 
 /*Rest*/
 [aria-label=USER_SETTINGS] .sidebar-CFHs9e [aria-controls=changelog-tab].item-PXvHYJ:before {
-  background-image: url(https://raw.githubusercontent.com/Randomfly1/Settings-Icons/e5a354e4e880ea77d1518af971598e1ab15a18e2/icons/misc/changelog.svg);
+  background-image: url(https://randomfly1.github.io/Settings-Icons/icons/misc/changelog.svg);
 }
 [aria-label=USER_SETTINGS] .sidebar-CFHs9e [aria-controls=hypesquad-online-tab].item-PXvHYJ:before {
-  background-image: url(https://raw.githubusercontent.com/Randomfly1/Settings-Icons/f1cb810b3df1fd8d068d34a809950792167d585d/icons/misc/hypesquad.svg);
+  background-image: url(https://randomfly1.github.io/Settings-Icons/icons/misc/hypesquad.svg);
 }
 [aria-label=USER_SETTINGS] .sidebar-CFHs9e [aria-controls=experiments-tab].item-PXvHYJ:before {
-  background-image: url(https://raw.githubusercontent.com/Randomfly1/Settings-Icons/a6eb307881758db738a7a8bad338a8d1ed23ec37/icons/misc/experiments.svg);
+  background-image: url(https://randomfly1.github.io/Settings-Icons/icons/misc/experiments.svg);
 }
 [aria-label=USER_SETTINGS] .sidebar-CFHs9e [aria-controls=developer-options-tab].item-PXvHYJ:before {
-  background-image: url(https://raw.githubusercontent.com/Randomfly1/Settings-Icons/18eb59bc45fd91a074fb93829654d6fec52cf2a7/icons/betterdiscord/developer-options.svg);
+  background-image: url(https://randomfly1.github.io/Settings-Icons/icons/misc/developer-options.svg);
 }
 
 /*Log Out*/
 [aria-label=USER_SETTINGS] .sidebar-CFHs9e [aria-controls=logout-tab].item-PXvHYJ:before {
-  background-image: url(https://raw.githubusercontent.com/Randomfly1/Settings-Icons/765cf62898a5738d5c34b2418364d9cbda3e4d31/icons/misc/logout.svg);
+  background-image: url(https://randomfly1.github.io/Settings-Icons/icons/misc/logout.svg);
 }
 
 .icon-Zc-uZZ,
