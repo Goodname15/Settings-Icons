@@ -98,6 +98,9 @@
 [aria-label=USER_SETTINGS] .sidebar-CFHs9e [aria-controls=settings-tab].item-PXvHYJ:before {
   background-image: url(https://randomfly1.github.io/Settings-Icons/icons/betterdiscord/settings.svg);
 }
+[aria-label=USER_SETTINGS] .sidebar-CFHs9e [aria-controls=emotes-tab].item-PXvHYJ:before {
+  background-image: url(https://randomfly1.github.io/Settings-Icons/icons/betterdiscord/emotes.svg);
+}
 [aria-label=USER_SETTINGS] .sidebar-CFHs9e [aria-controls=customcss-tab].item-PXvHYJ:before {
   background-image: url(https://randomfly1.github.io/Settings-Icons/icons/betterdiscord/custom-css.svg);
 }
