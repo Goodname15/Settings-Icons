@@ -140,3 +140,128 @@
 .icon-3Povsy {
   margin-right: 15px;
 }
+
+/*SERVER SETTINGS*/
+[aria-label=GUILD_SETTINGS] .sidebar-CFHs9e .item-PXvHYJ {
+  padding-left: 50px !important;
+}
+[aria-label=GUILD_SETTINGS] .sidebar-CFHs9e .item-PXvHYJ:before {
+  content: "";
+  position: absolute;
+  width: 24px;
+  height: 24px;
+  left: 15px;
+  margin-top: -2px;
+}
+
+/* Hover Animation*/
+/*[aria-label=USER_SETTINGS] .sidebar-CFHs9e .item-PXvHYJ:hover:before {
+  transform: rotateY(180deg);
+  transition: all 0.15s ease-in-out;
+}*/
+
+/*General*/
+[aria-label=GUILD_SETTINGS] .sidebar-CFHs9e [aria-controls=overview-tab].item-PXvHYJ:before {
+  background-image: url(https://randomfly1.github.io/Settings-Icons/server/general/overview.svg);
+}
+[aria-label=GUILD_SETTINGS] .sidebar-CFHs9e [aria-controls=roles-tab].item-PXvHYJ:before {
+  background-image: url(https://randomfly1.github.io/Settings-Icons/server/general/roles.svg);
+}
+[aria-label=GUILD_SETTINGS] .sidebar-CFHs9e [aria-controls=emoji-tab].item-PXvHYJ:before {
+  background-image: url(https://randomfly1.github.io/Settings-Icons/server/general/emoji.svg);
+}
+[aria-label=GUILD_SETTINGS] .sidebar-CFHs9e [aria-controls=stickers-tab].item-PXvHYJ:before {
+  background-image: url(https://randomfly1.github.io/Settings-Icons/server/general/sticker.svg);
+}
+[aria-label=GUILD_SETTINGS] .sidebar-CFHs9e [aria-controls=moderation-tab].item-PXvHYJ:before {
+  background-image: url(https://randomfly1.github.io/Settings-Icons/server/general/moderation.svg);
+}
+[aria-label=GUILD_SETTINGS] .sidebar-CFHs9e [aria-controls=audit_log-tab].item-PXvHYJ:before {
+  background-image: url(https://randomfly1.github.io/Settings-Icons/server/general/audit-log.svg);
+}
+[aria-label=GUILD_SETTINGS] .sidebar-CFHs9e [aria-controls=integrations-tab].item-PXvHYJ:before {
+  background-image: url(https://randomfly1.github.io/Settings-Icons/server/general/integrations.svg);
+}
+[aria-label=GUILD_SETTINGS] .sidebar-CFHs9e [aria-controls=widget-tab].item-PXvHYJ:before {
+  background-image: url(https://randomfly1.github.io/Settings-Icons/server/general/widget.svg);
+}
+[aria-label=GUILD_SETTINGS] .sidebar-CFHs9e [aria-controls=guild_templates-tab].item-PXvHYJ:before {
+  background-image: url(https://randomfly1.github.io/Settings-Icons/server/general/templates.svg);
+}
+
+/*Community*/
+[aria-label=GUILD_SETTINGS] .sidebar-CFHs9e [aria-controls=community-tab].item-PXvHYJ:before {
+  background-image: url(https://randomfly1.github.io/Settings-Icons/server/community/overview.svg);
+}
+[aria-label=GUILD_SETTINGS] .sidebar-CFHs9e [aria-controls=analytics-tab].item-PXvHYJ:before {
+  background-image: url(https://randomfly1.github.io/Settings-Icons/server/community/server-insights.svg);
+}
+[aria-label=GUILD_SETTINGS] .sidebar-CFHs9e [aria-controls=partner-tab].item-PXvHYJ:before {
+  background-image: url(https://randomfly1.github.io/Settings-Icons/server/community/partner-program.svg);
+}
+[aria-label=GUILD_SETTINGS] .sidebar-CFHs9e [aria-controls=discovery-tab].item-PXvHYJ:before {
+  background-image: url(https://randomfly1.github.io/Settings-Icons/server/community/discovery.svg);
+}
+[aria-label=GUILD_SETTINGS] .sidebar-CFHs9e [aria-controls=member_verification-tab].item-PXvHYJ {
+  padding-left: 10px !important;
+}
+[aria-label=GUILD_SETTINGS] .sidebar-CFHs9e [aria-controls=community_welcome-tab].item-PXvHYJ:before {
+  background-image: url(https://randomfly1.github.io/Settings-Icons/server/community/welcome-screen.svg);
+}
+[aria-label=GUILD_SETTINGS] .sidebar-CFHs9e [aria-controls=threads-tab].item-PXvHYJ:before {
+  background-image: url(https://randomfly1.github.io/Settings-Icons/server/community/threads.svg);
+}
+[aria-label=GUILD_SETTINGS] .sidebar-CFHs9e [aria-controls=guild_premium-tab].item-PXvHYJ:before {
+  background-image: url(https://randomfly1.github.io/Settings-Icons/server/community/server-boost-status.svg);
+}
+
+/*User Management*/
+[aria-label=GUILD_SETTINGS] .sidebar-CFHs9e [aria-controls=members-tab].item-PXvHYJ:before {
+  background-image: url(https://randomfly1.github.io/Settings-Icons/server/user-management/members.svg);
+}
+[aria-label=GUILD_SETTINGS] .sidebar-CFHs9e [aria-controls=instant_invites-tab].item-PXvHYJ:before {
+  background-image: url(https://randomfly1.github.io/Settings-Icons/server/user-management/invites.svg);
+}
+[aria-label=GUILD_SETTINGS] .sidebar-CFHs9e [aria-controls=bans-tab].item-PXvHYJ:before {
+  background-image: url(https://randomfly1.github.io/Settings-Icons/server/user-management/bans.svg);
+}
+
+[aria-label=GUILD_SETTINGS] .sidebar-CFHs9e [aria-controls=delete-tab].item-PXvHYJ:before {
+  background-image: url(https://randomfly1.github.io/Settings-Icons/server/user-management/delete-server.svg);
+}
+
+/*CHANNEL SETTINGS'*/
+[aria-label=CHANNEL_SETTINGS] .sidebar-CFHs9e .item-PXvHYJ {
+  padding-left: 50px !important;
+}
+[aria-label=CHANNEL_SETTINGS] .sidebar-CFHs9e .item-PXvHYJ:before {
+  content: "";
+  position: absolute;
+  width: 24px;
+  height: 24px;
+  left: 15px;
+  margin-top: -2px;
+}
+
+/* Hover Animation*/
+/*[aria-label=USER_SETTINGS] .sidebar-CFHs9e .item-PXvHYJ:hover:before {
+  transform: rotateY(180deg);
+  transition: all 0.15s ease-in-out;
+}*/
+
+[aria-label=CHANNEL_SETTINGS] .sidebar-CFHs9e [aria-controls=overview-tab].item-PXvHYJ:before {
+  background-image: url(https://randomfly1.github.io/Settings-Icons/server/general/overview.svg);
+}
+[aria-label=CHANNEL_SETTINGS] .sidebar-CFHs9e [aria-controls=permissions-tab].item-PXvHYJ:before {
+  background-image: url(https://randomfly1.github.io/Settings-Icons/server/general/channel-permissions.svg);
+}
+[aria-label=CHANNEL_SETTINGS] .sidebar-CFHs9e [aria-controls=instant_invites-tab].item-PXvHYJ:before {
+  background-image: url(https://randomfly1.github.io/Settings-Icons/server/user-management/invites.svg);
+}
+[aria-label=CHANNEL_SETTINGS] .sidebar-CFHs9e [aria-controls=integrations-tab].item-PXvHYJ:before {
+  background-image: url(https://randomfly1.github.io/Settings-Icons/server/general/integrations.svg);
+}
+
+[aria-label=CHANNEL_SETTINGS] .sidebar-CFHs9e [aria-controls=delete-tab].item-PXvHYJ:before {
+  background-image: url(https://randomfly1.github.io/Settings-Icons/server/user-management/delete-server.svg);
+}
