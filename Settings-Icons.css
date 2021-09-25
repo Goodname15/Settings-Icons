@@ -202,9 +202,6 @@
 [aria-label=GUILD_SETTINGS] .sidebar-CFHs9e [aria-controls=discovery-tab].item-PXvHYJ:before {
   background-image: url(https://randomfly1.github.io/Settings-Icons/server/community/discovery.svg);
 }
-[aria-label=GUILD_SETTINGS] .sidebar-CFHs9e [aria-controls=member_verification-tab].item-PXvHYJ {
-  padding-left: 10px !important;
-}
 [aria-label=GUILD_SETTINGS] .sidebar-CFHs9e [aria-controls=community_welcome-tab].item-PXvHYJ:before {
   background-image: url(https://randomfly1.github.io/Settings-Icons/server/community/welcome-screen.svg);
 }
@@ -213,6 +210,33 @@
 }
 [aria-label=GUILD_SETTINGS] .sidebar-CFHs9e [aria-controls=guild_premium-tab].item-PXvHYJ:before {
   background-image: url(https://randomfly1.github.io/Settings-Icons/server/community/server-boost-status.svg);
+}
+[aria-label=GUILD_SETTINGS] .sidebar-CFHs9e [aria-controls=member_verification-tab].item-PXvHYJ {
+  color: transparent;
+}
+/*Member Verification Tab*/
+[aria-label=GUILD_SETTINGS] .sidebar-CFHs9e [aria-controls=member_verification-tab].item-PXvHYJ:after {
+  content:'Member Screening'; 
+  color: #B9BBBE;
+  visibility: visible;
+  display: block;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  padding-left: 50px;
+  padding-top: 6px;
+  padding-right: 115px;
+  padding-bottom: 6px;
+}
+
+[aria-label=GUILD_SETTINGS] .sidebar-CFHs9e [aria-controls=member_verification-tab].item-PXvHYJ:hover:after {
+  color: #D7D8DA;
+}
+[aria-label=GUILD_SETTINGS] .sidebar-CFHs9e [aria-controls=member_verification-tab][aria-selected=true].item-PXvHYJ:after {
+  color: #FFFFFF;
+}
+[aria-label=GUILD_SETTINGS] .sidebar-CFHs9e [aria-controls=member_verification-tab].item-PXvHYJ:before {
+  background-image: url(https://randomfly1.github.io/Settings-Icons/server/community/membership-screening.svg);
 }
 
 /*User Management*/
