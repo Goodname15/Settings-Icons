@@ -17,3 +17,9 @@ Go to Settings > BetterDiscord > custom CSS and paste
 @import https://randomfly1.github.io/Settings-Icons/Settings-Icons.css
 ```
 then save.
+
+## Credits
+- [ClearVision BD Theme](https://clearvision.gitlab.io/) ([source](https://github.com/ClearVision/ClearVision-v6/blob/master/src/settings/icons.scss): original idea and icon selection (Google Material Icons)
+- [snappercord Settings-Icons](https://github.com/snappercord/Settings-Icons): additional icons
+- [MulverineX](https://github.com/MulverineX/legacy-settings-icons): more icons and base code
+... and myself: adding missing icons, maintainance
