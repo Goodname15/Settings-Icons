@@ -285,10 +285,10 @@
 }
 
 /*CHANNEL SETTINGS'*/
-[aria-label=CHANNEL_SETTINGS] .sidebar-nqHbhN .item-PXvHYJ {
+[aria-label=CHANNEL_SETTINGS] .sidebar-nqHbhN .item-3XjbnG {
   padding-left: 50px !important;
 }
-[aria-label=CHANNEL_SETTINGS] .sidebar-CFHs9e .item-PXvHYJ:before {
+[aria-label=CHANNEL_SETTINGS] .sidebar-nqHbhN .item-3XjbnG:before {
   content: "";
   position: absolute;
   width: 24px;
@@ -298,24 +298,24 @@
 }
 
 /* Hover Animation*/
-/*[aria-label=USER_SETTINGS] .sidebar-CFHs9e .item-PXvHYJ:hover:before {
+/*[aria-label=USER_SETTINGS] .sidebar-nqHbhN .item-3XjbnG:hover:before {
   transform: rotateY(180deg);
   transition: all 0.15s ease-in-out;
 }*/
 
-[aria-label=CHANNEL_SETTINGS] .sidebar-CFHs9e [aria-controls=overview-tab].item-PXvHYJ:before {
+[aria-label=CHANNEL_SETTINGS] .sidebar-nqHbhN [aria-controls=overview-tab].item-3XjbnG:before {
   background-image: url(https://randomfly1.github.io/Settings-Icons/server/general/overview.svg);
 }
-[aria-label=CHANNEL_SETTINGS] .sidebar-CFHs9e [aria-controls=permissions-tab].item-PXvHYJ:before {
+[aria-label=CHANNEL_SETTINGS] .sidebar-nqHbhN [aria-controls=permissions-tab].item-3XjbnG:before {
   background-image: url(https://randomfly1.github.io/Settings-Icons/server/general/channel-permissions.svg);
 }
-[aria-label=CHANNEL_SETTINGS] .sidebar-CFHs9e [aria-controls=instant_invites-tab].item-PXvHYJ:before {
+[aria-label=CHANNEL_SETTINGS] .sidebar-nqHbhN [aria-controls=instant_invites-tab].item-3XjbnG:before {
   background-image: url(https://randomfly1.github.io/Settings-Icons/server/user-management/invites.svg);
 }
-[aria-label=CHANNEL_SETTINGS] .sidebar-CFHs9e [aria-controls=integrations-tab].item-PXvHYJ:before {
+[aria-label=CHANNEL_SETTINGS] .sidebar-nqHbhN [aria-controls=integrations-tab].item-3XjbnG:before {
   background-image: url(https://randomfly1.github.io/Settings-Icons/server/general/integrations.svg);
 }
 
-[aria-label=CHANNEL_SETTINGS] .sidebar-CFHs9e [aria-controls=delete-tab].item-PXvHYJ:before {
+[aria-label=CHANNEL_SETTINGS] .sidebar-nqHbhN [aria-controls=delete-tab].item-3XjbnG:before {
   background-image: url(https://randomfly1.github.io/Settings-Icons/server/user-management/delete-server.svg);
 }
