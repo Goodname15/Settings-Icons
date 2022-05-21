@@ -1,7 +1,7 @@
-[role="tablist"] .item-3XjbnG {
+[class="side-2ur1Qk"] .item-3XjbnG {
   padding-left: 50px !important;
 }
-[role="tablist"] .item-3XjbnG:before {
+[class="side-2ur1Qk"] .item-3XjbnG:before {
   content: "";
   position: absolute;
   width: 24px;
@@ -293,4 +293,3 @@
 [aria-controls=delete-tab].item-3XjbnG:before {
   background-image: url(https://randomfly1.github.io/Settings-Icons/server/user-management/delete-server.svg);
 }
-
