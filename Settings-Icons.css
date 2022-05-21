@@ -20,8 +20,16 @@
 /* SETTINGS SIDEBAR ICONS */
 
 /*User Settings*/
-[aria-controls="powermode-settings-tab"].item-3XjbnG:before {
+/*[aria-controls="powermode-settings-tab"].item-3XjbnG:before {
   background-image: url(https://randomfly1.github.io/Settings-Icons/icons/user-settings/powermode.svg);
+}*/
+[class="poggermodeIcon-3Z9uYf"] {
+  content: "";
+  position: absolute;
+  width: 24px;
+  height: 24px;
+  left: 15px;
+  margin-top: -2px;
 }
 [aria-label="My Account"].item-3XjbnG:before {
   background-image: url(https://randomfly1.github.io/Settings-Icons/icons/user-settings/my-account.svg);
