@@ -46,6 +46,11 @@
 [aria-controls=discord-nitro-tab].item-3XjbnG:before {
   background-image: url(https://randomfly1.github.io/Settings-Icons/icons/payment-settings/discord-nitro.svg);
 }
+[class="background-Gjdjzm selectedBackground-1t6xXq"] {
+  background-image: url(https://randomfly1.github.io/Settings-Icons/icons/payment-settings/discord-nitro.svg);
+  background-repeat: no-repeat;
+  background-position: 15px;
+}
 [aria-controls=nitro-server-boost-tab].item-3XjbnG:before {
   background-image: url(https://randomfly1.github.io/Settings-Icons/icons/payment-settings/server-boost.svg);
 }
@@ -143,11 +148,12 @@
 }
 
 /*Dismissable Content*/
-[aria-controls=dismissible-content-options-tab].item-3XjbnG {
-  color: transparent;
+[aria-controls=dismissible-content-options-tab].item-3XjbnG{
+  text-indent: -9999px;
 }
 [aria-controls=dismissible-content-options-tab].item-3XjbnG:after {
-  content:'Dismissed Content'; 
+  content:'Dismissed Content';
+  text-indent: 0;
   color: #B9BBBE;
   visibility: visible;
   display: block;
@@ -236,10 +242,11 @@
 
 /*Member Verification Tab*/
 [aria-controls=member_verification-tab].item-3XjbnG {
-  color: transparent;
+  text-indent: -9999px;
 }
 [aria-controls=member_verification-tab].item-3XjbnG:after {
-  content:'Member Screening'; 
+  content:'Member Screening';
+  text-indent: 0;
   color: #B9BBBE;
   visibility: visible;
   display: block;
@@ -293,3 +300,4 @@
 [aria-controls=delete-tab].item-3XjbnG:before {
   background-image: url(https://randomfly1.github.io/Settings-Icons/server/user-management/delete-server.svg);
 }
+
