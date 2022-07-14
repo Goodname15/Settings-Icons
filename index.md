@@ -7,14 +7,14 @@ Settings-Icons is a lightweight theme, which adds little icons to discord's sett
 This theme is built for [BetterDiscord](https://betterdiscord.app/). So, if you don't have it yet, you can download it now.
 
 * **Method 1**\
-Download the theme from [here](https://github.com/Randomfly1/Settings-Icons/releases/tag/release)\
+Download the theme from [here](https://github.com/Goodname15/Settings-Icons/releases/tag/release)\
 Go to Settings > BetterDiscord > Themes\
 Click "Open Themes Folder" and insert the SettingsIcons.theme.css File, you downloaded earlier.\
 ㅤㅤ
 * **Method 2**
 Go to Settings > BetterDiscord > custom CSS and paste
 ```
-@import https://randomfly1.github.io/Settings-Icons/Settings-Icons.css
+@import https://goodname15.github.io/Settings-Icons/Settings-Icons.css
 ```
 then save.
 
