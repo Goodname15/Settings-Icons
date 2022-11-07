@@ -1,3 +1,4 @@
+/* Move Sidebars to right and add space for icon */
 [class="side-2ur1Qk"] .item-3XjbnG {
   padding-left: 50px !important;
 }
@@ -10,7 +11,7 @@
   margin-top: -2px;
 }
 
-/* Hover Animation*/
+/* Hover Animation */
 /*[role="tablist"] .item-3XjbnG:hover:before {
   transform: rotateY(180deg);
   transition: all 0.15s ease-in-out;
@@ -34,24 +35,25 @@
 [aria-label="My Account"].item-3XjbnG:before {
   background-image: url(https://goodname15.github.io/Settings-Icons/icons/user-settings/my-account.svg);
 }
-[aria-label="User Profile"].item-3XjbnG:before {
+[aria-label="Profiles"].item-3XjbnG:before {
   background-image: url(https://goodname15.github.io/Settings-Icons/icons/user-settings/user-profile.svg);
+}
+/**/
+[name="Devices"].item-3XjbnG:before {
+  background-image: url(https://goodname15.github.io/Settings-Icons/icons/user-settings/privacy-safety.svg);
 }
 [aria-controls="privacy-&-safety-tab"].item-3XjbnG:before {
   background-image: url(https://goodname15.github.io/Settings-Icons/icons/user-settings/privacy-safety.svg);
 }
-[aria-controls=authorized-apps-tab].item-3XjbnG:before {
+[aria-controls="authorized-apps-tab"].item-3XjbnG:before {
   background-image: url(https://goodname15.github.io/Settings-Icons/icons/user-settings/authorized-apps.svg);
 }
-[aria-controls=connections-tab].item-3XjbnG:before {
+[aria-label="Connections"].item-3XjbnG:before {
   background-image: url(https://goodname15.github.io/Settings-Icons/icons/user-settings/connections.svg);
 }
 
 /*Payment Settings*/
-[aria-controls=subscriptions-tab].item-3XjbnG:before {
-  background-image: url(https://goodname15.github.io/Settings-Icons/icons/payment-settings/subscriptions.svg);
-}
-[aria-controls=discord-nitro-tab].item-3XjbnG:before {
+[aria-label=Nitro].item-3XjbnG:before {
   background-image: url(https://goodname15.github.io/Settings-Icons/icons/payment-settings/discord-nitro.svg);
 }
 [class="background-Gjdjzm selectedBackground-1t6xXq"] {
@@ -59,12 +61,17 @@
   background-repeat: no-repeat;
   background-position: 15px;
 }
-[aria-controls=nitro-server-boost-tab].item-3XjbnG:before {
+/**/
+[aria-controls="nitro-server-boost-tab"].item-3XjbnG:before {
   background-image: url(https://goodname15.github.io/Settings-Icons/icons/payment-settings/server-boost.svg);
 }
-[aria-controls=library-inventory-tab].item-3XjbnG:before {
+[aria-label="Subscriptions"].item-3XjbnG:before {
+  background-image: url(https://goodname15.github.io/Settings-Icons/icons/payment-settings/subscriptions.svg);
+}
+[aria-label="Gift inventory"].item-3XjbnG:before {
   background-image: url(https://goodname15.github.io/Settings-Icons/icons/payment-settings/gift-inventory.svg);
 }
+/**/
 [aria-controls=billing-tab].item-3XjbnG:before {
   background-image: url(https://goodname15.github.io/Settings-Icons/icons/payment-settings/billing.svg);
 }
@@ -113,25 +120,47 @@
 }
 
 /*BetterDiscord*/
-[aria-controls=settings-tab].item-3XjbnG:before {
+[class="bd-settings-tab item-3XjbnG themed-2-lozF"].item-3XjbnG:before {
   background-image: url(https://goodname15.github.io/Settings-Icons/icons/betterdiscord/settings.svg);
 }
-[aria-controls=emotes-tab].item-3XjbnG:before {
+[class="bd-updates-tab item-3XjbnG themed-2-lozF"].item-3XjbnG:before {
   background-image: url(https://goodname15.github.io/Settings-Icons/icons/betterdiscord/emotes.svg);
 }
-[aria-controls=customcss-tab].item-3XjbnG:before {
+[class="bd-customcss-tab item-3XjbnG themed-2-lozF"].item-3XjbnG:before {
   background-image: url(https://goodname15.github.io/Settings-Icons/icons/betterdiscord/custom-css.svg);
 }
-[aria-controls=plugins-tab].item-3XjbnG:before {
+[class="bd-plugins-tab item-3XjbnG themed-2-lozF"].item-3XjbnG:before {
   background-image: url(https://goodname15.github.io/Settings-Icons/icons/betterdiscord/plugins.svg);
 }
-[aria-controls=themes-tab].item-3XjbnG:before {
+[class="bd-themes-tab item-3XjbnG themed-2-lozF"].item-3XjbnG:before {
   background-image: url(https://goodname15.github.io/Settings-Icons/icons/betterdiscord/themes.svg);
 }
-[aria-controls=pluginrepo-tab].item-3XjbnG:before {
+[class="pluginrepo-tab item-3XjbnG themed-2-lozF"].item-3XjbnG:before {
   background-image: url(https://goodname15.github.io/Settings-Icons/icons/betterdiscord/plugin-repo.svg);
 }
-[aria-controls=themerepo-tab].item-3XjbnG:before {
+[class="themerepo-tab item-3XjbnG themed-2-lozF"].item-3XjbnG:before {
+  background-image: url(https://goodname15.github.io/Settings-Icons/icons/betterdiscord/theme-repo.svg);
+}
+/* BetterDiscord selected */
+[class="bd-settings-tab item-3XjbnG selected-g-kMVV themed-2-lozF"].item-3XjbnG:before {
+  background-image: url(https://goodname15.github.io/Settings-Icons/icons/betterdiscord/settings.svg);
+}
+[class="bd-updates-tab item-3XjbnG selected-g-kMVV themed-2-lozF"].item-3XjbnG:before {
+  background-image: url(https://goodname15.github.io/Settings-Icons/icons/betterdiscord/emotes.svg);
+}
+[class="bd-customcss-tab item-3XjbnG selected-g-kMVV themed-2-lozF"].item-3XjbnG:before {
+  background-image: url(https://goodname15.github.io/Settings-Icons/icons/betterdiscord/custom-css.svg);
+}
+[class="bd-plugins-tab item-3XjbnG selected-g-kMVV themed-2-lozF"].item-3XjbnG:before {
+  background-image: url(https://goodname15.github.io/Settings-Icons/icons/betterdiscord/plugins.svg);
+}
+[class="bd-themes-tab item-3XjbnG selected-g-kMVV themed-2-lozF"].item-3XjbnG:before {
+  background-image: url(https://goodname15.github.io/Settings-Icons/icons/betterdiscord/themes.svg);
+}
+[class="pluginrepo-tab item-3XjbnG selected-g-kMVV themed-2-lozF"].item-3XjbnG:before {
+  background-image: url(https://goodname15.github.io/Settings-Icons/icons/betterdiscord/plugin-repo.svg);
+}
+[class="themerepo-tab item-3XjbnG selected-g-kMVV themed-2-lozF"].item-3XjbnG:before {
   background-image: url(https://goodname15.github.io/Settings-Icons/icons/betterdiscord/theme-repo.svg);
 }
 
@@ -184,7 +213,7 @@
 }
 
 /*Log Out*/
-[aria-controls=logout-tab].item-3XjbnG:before {
+[aria-label="Log Out"].item-3XjbnG:before {
   background-image: url(https://goodname15.github.io/Settings-Icons/icons/misc/logout.svg);
 }
 
@@ -197,17 +226,33 @@
 /*SERVER SETTINGS*/
 
 /*General*/
-[aria-controls=overview-tab].item-3XjbnG:before {
+[aria-label="Overview"].item-3XjbnG:before {
   background-image: url(https://goodname15.github.io/Settings-Icons/server/general/overview.svg);
 }
-[aria-controls=roles-tab].item-3XjbnG:before {
+[aria-label="Manage Roles"].item-3XjbnG:before {
   background-image: url(https://goodname15.github.io/Settings-Icons/server/general/roles.svg);
 }
 [aria-controls=emoji-tab].item-3XjbnG:before {
   background-image: url(https://goodname15.github.io/Settings-Icons/server/general/emoji.svg);
 }
-[aria-controls=stickers-tab].item-3XjbnG:before {
+[aria-label="Stickers"].item-3XjbnG:before {
   background-image: url(https://goodname15.github.io/Settings-Icons/server/general/sticker.svg);
+}
+[aria-controls=widget-tab].item-3XjbnG:before {
+  background-image: url(https://goodname15.github.io/Settings-Icons/server/general/widget.svg);
+}
+[aria-label="Server Template"].item-3XjbnG:before {
+  background-image: url(https://goodname15.github.io/Settings-Icons/server/general/templates.svg);
+}
+
+/* Apps */
+[aria-label="Integrations"].item-3XjbnG:before {
+  background-image: url(https://goodname15.github.io/Settings-Icons/server/general/integrations.svg);
+}
+
+/* Moderation */
+[aria-controls=member_verification-tab].item-3XjbnG:before {
+  background-image: url(https://goodname15.github.io/Settings-Icons/server/community/membership-screening.svg);
 }
 [aria-controls=moderation-tab].item-3XjbnG:before {
   background-image: url(https://goodname15.github.io/Settings-Icons/server/general/moderation.svg);
@@ -215,65 +260,31 @@
 [aria-controls=audit_log-tab].item-3XjbnG:before {
   background-image: url(https://goodname15.github.io/Settings-Icons/server/general/audit-log.svg);
 }
-[aria-controls=integrations-tab].item-3XjbnG:before {
-  background-image: url(https://goodname15.github.io/Settings-Icons/server/general/integrations.svg);
-}
-[aria-controls=widget-tab].item-3XjbnG:before {
-  background-image: url(https://goodname15.github.io/Settings-Icons/server/general/widget.svg);
-}
-[aria-controls=guild_templates-tab].item-3XjbnG:before {
-  background-image: url(https://goodname15.github.io/Settings-Icons/server/general/templates.svg);
+[aria-controls=bans-tab].item-3XjbnG:before {
+  background-image: url(https://goodname15.github.io/Settings-Icons/server/user-management/bans.svg);
 }
 
 /*Community*/
 [aria-controls=community-tab].item-3XjbnG:before {
   background-image: url(https://goodname15.github.io/Settings-Icons/server/community/overview.svg);
 }
-[aria-controls=analytics-tab].item-3XjbnG:before {
+[aria-label="Server Insights"].item-3XjbnG:before {
   background-image: url(https://goodname15.github.io/Settings-Icons/server/community/server-insights.svg);
 }
-[aria-controls=partner-tab].item-3XjbnG:before {
+[aria-label="Partner Programme"].item-3XjbnG:before {
   background-image: url(https://goodname15.github.io/Settings-Icons/server/community/partner-program.svg);
 }
-[aria-controls=discovery-tab].item-3XjbnG:before {
+[aria-label="Enable Discovery"].item-3XjbnG:before {
   background-image: url(https://goodname15.github.io/Settings-Icons/server/community/discovery.svg);
 }
-[aria-controls=community_welcome-tab].item-3XjbnG:before {
+[aria-label="Welcome Screen"].item-3XjbnG:before {
   background-image: url(https://goodname15.github.io/Settings-Icons/server/community/welcome-screen.svg);
 }
-[aria-controls=threads-tab].item-3XjbnG:before {
+/*[aria-controls=threads-tab].item-3XjbnG:before {
   background-image: url(https://goodname15.github.io/Settings-Icons/server/community/threads.svg);
-}
-[aria-controls=guild_premium-tab].item-3XjbnG:before {
+}*/
+[aria-label="Server Boost Status"].item-3XjbnG:before {
   background-image: url(https://goodname15.github.io/Settings-Icons/server/community/server-boost-status.svg);
-}
-
-/*Member Verification Tab*/
-[aria-controls=member_verification-tab].item-3XjbnG {
-  text-indent: -9999px;
-}
-[aria-controls=member_verification-tab].item-3XjbnG:after {
-  content:'Member Screening';
-  text-indent: 0;
-  color: #B9BBBE;
-  visibility: visible;
-  display: block;
-  position: absolute;
-  top: 0px;
-  left: 0px;
-  padding-left: 50px;
-  padding-top: 6px;
-  padding-right: 115px;
-  padding-bottom: 6px;
-}
-[aria-controls=member_verification-tab].item-3XjbnG:hover:after {
-  color: #D7D8DA;
-}
-[aria-controls=member_verification-tab][aria-selected=true].item-3XjbnG:after {
-  color: #FFFFFF;
-}
-[aria-controls=member_verification-tab].item-3XjbnG:before {
-  background-image: url(https://goodname15.github.io/Settings-Icons/server/community/membership-screening.svg);
 }
 
 /*User Management*/
@@ -283,29 +294,27 @@
 [aria-controls=instant_invites-tab].item-3XjbnG:before {
   background-image: url(https://goodname15.github.io/Settings-Icons/server/user-management/invites.svg);
 }
-[aria-controls=bans-tab].item-3XjbnG:before {
-  background-image: url(https://goodname15.github.io/Settings-Icons/server/user-management/bans.svg);
-}
 
-[aria-controls=delete-tab].item-3XjbnG:before {
+[aria-label="Delete Server"].item-3XjbnG:before {
   background-image: url(https://goodname15.github.io/Settings-Icons/server/user-management/delete-server.svg);
 }
 
 /*CHANNEL SETTINGS'*/
 
-[aria-controls=overview-tab].item-3XjbnG:before {
+/*[aria-controls=overview-tab].item-3XjbnG:before {
   background-image: url(https://goodname15.github.io/Settings-Icons/server/general/overview.svg);
-}
+}*/
 [aria-controls=permissions-tab].item-3XjbnG:before {
   background-image: url(https://goodname15.github.io/Settings-Icons/server/general/channel-permissions.svg);
 }
 [aria-controls=instant_invites-tab].item-3XjbnG:before {
   background-image: url(https://goodname15.github.io/Settings-Icons/server/user-management/invites.svg);
 }
-[aria-controls=integrations-tab].item-3XjbnG:before {
+/*[aria-controls=integrations-tab].item-3XjbnG:before {
   background-image: url(https://goodname15.github.io/Settings-Icons/server/general/integrations.svg);
-}
-[aria-controls=delete-tab].item-3XjbnG:before {
+}*/
+
+[aria-label="Delete Channel"].item-3XjbnG:before {
   background-image: url(https://goodname15.github.io/Settings-Icons/server/user-management/delete-server.svg);
 }
 
